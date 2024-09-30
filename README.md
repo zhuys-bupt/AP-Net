@@ -43,4 +43,4 @@ If you find this code useful in your research, please cite:
 
 # Acknowledgements
 
-Thanks to Jia-Ren Chang for opening source of his excellent work PSMNet. Our work is inspired by this work and part of codes in `models` are migrated from [PSMNet](https://github.com/JiaRenChang/PSMNet).
+Special thanks to authors of [GwcNet](https://github.com/xy-guo/GwcNet) and [STTR](https://github.com/mli0603/stereo-transformer) for open-sourcing the code.
