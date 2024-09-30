@@ -1,7 +1,7 @@
 # AP-Net
 
-This is the implementation of the paper **Group-wise Correlation Stereo Network**, CVPR 19, Xiaoyang Guo, Kai Yang, Wukui Yang, Xiaogang Wang, and Hongsheng Li
-[\[Arxiv\]](https://arxiv.org/)
+This is the implementation of the paper **AP-Net: Attention-Fused Volume and Progressive Aggregation for
+Accurate Stereo Matching**.
 
 # How to use
 
