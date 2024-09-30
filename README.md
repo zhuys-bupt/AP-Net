@@ -22,7 +22,7 @@ run the script `./scripts/sceneflow.sh` to train on Scene Flow datsets. Please u
 run the script `./scripts/kitti12.sh` and `./scripts/kitti15.sh` to finetune on the KITTI 12/15 dataset. Please update `DATAPATH` and `--loadckpt` as your training data path and pretrained SceneFlow checkpoint file.
 
 ## Evaluation
-run the script `./scripts/kitti12_save.sh` and `./scripts/kitti15_save.sh` to save png predictions on the test set of the KITTI datasets to the folder `./predictions`.
+run the script `./scripts/kitti12_save.sh` and `./scripts/kitti15_save.sh` to save png predictions on the test set of the KITTI datasets to the folder you specify.
 
 # Citation
 If you find this code useful in your research, please cite:
