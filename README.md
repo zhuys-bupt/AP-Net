@@ -26,6 +26,17 @@ run the script `./scripts/kitti12_save.sh` and `./scripts/kitti15_save.sh` to sa
 
 # Citation
 If you find this code useful in your research, please cite:
+@article{ZHU2024128685,
+title = {AP-Net: Attention-fused volume and progressive aggregation for accurate stereo matching},
+journal = {Neurocomputing},
+pages = {128685},
+year = {2024},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2024.128685},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231224014565},
+author = {Yansong zhu and Songwei Pei and BingFeng Liu and Jun Gao},
+keywords = {Attention-fused cost volume, Progressive cost aggregation, Refinement module},
+}
 
 
 # Acknowledgements
